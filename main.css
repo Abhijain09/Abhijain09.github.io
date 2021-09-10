@@ -155,6 +155,7 @@ header .searchBar {
 .listings .listings-grid .listings-grid-element .image img {
   width: 100%;
   height: 100%;
+  border-radius: 10%;
   -o-object-fit: cover;
      object-fit: cover;
 }
